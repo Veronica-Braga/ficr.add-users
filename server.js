@@ -1,3 +1,6 @@
+const env = require('dotenv')
+env.config()
+
 // importando o express
 const express = require ('express')
 
